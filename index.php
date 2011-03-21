@@ -22,7 +22,7 @@ if ($borough) {
     for ($i = 0; $i < count($raw_areas); $i++) {
       
       $label = $raw_areas[$i]['label'];
-      if (!preg_match("/^Geometry/", $label)) {
+      if (!preg_match("/^Geometry/", $label)) { // Only needed because data conversion has a bug: each feature has an extra bogus label
         $areas[] = $raw_areas[$i];
         if (!$label) {
           $label = 'Unnamed feature';
