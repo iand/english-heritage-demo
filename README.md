@@ -1,5 +1,5 @@
-potassium
-=========
+English Heritage Demo
+=====================
 A simple demo using English Heritage data with [Kasabi](http://kasabi.com/)
 
 Overview
