@@ -4,7 +4,7 @@ A simple demo using English Heritage data with [Kasabi](http://kasabi.com/)
 
 Overview
 --------
-See [[http://iandavis.com/2011/english-heritage/]] for a live demo.
+See [http://iandavis.com/2011/english-heritage/](http://iandavis.com/2011/english-heritage/) for a live demo.
 
 Requires [Potassium](http://github.com/iand/potassium)
 
