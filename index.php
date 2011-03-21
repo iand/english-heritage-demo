@@ -173,6 +173,8 @@ if ($borough) {
      type="text/javascript"
      src="http://api.kasabi.com/dataset/english-heritage/attribution">
 </script>
+    <hr class="space">
+    <div>Source code available from <a href="http://github.com/iand/english-heritage-demo">GitHub</a></div>
     </div>
     <ul class="span-12 last">
           <?php 
